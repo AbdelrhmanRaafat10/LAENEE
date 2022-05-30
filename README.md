@@ -1,4 +1,8 @@
 # la2enee_app1
+LA2ENEE app will be helpful for everyone who searching for a lost persons or to someone that finds a lost person and helping them reach their family. 
+There’re two main categories (seeker, finder), As a user you can create a post and selecting a category as a seeker or finder and inserting a photo for the lost person.
+The algorithm specifically works on the photos that included into the (seeker, finder) category, and matching between the photos to specify the same person into the two categories, and notify them if the matching successfully occurs.
+we are providing chat to facilitate the communication between the seeker and finder till reaching eachother. 
 
 A new Flutter application.
 
