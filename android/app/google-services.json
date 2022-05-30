@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377576981551",
+    "project_id": "la2enee",
+    "storage_bucket": "la2enee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377576981551:android:d34ffe80e89d451afcf2da",
+        "android_client_info": {
+          "package_name": "com.example.la2enee_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377576981551-rtdecpd4st2sbr634g1d834rjj2fmr91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9WmmKQvVn-__WAieVgKoLSRF39f57jMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377576981551-rtdecpd4st2sbr634g1d834rjj2fmr91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
