@@ -6,7 +6,7 @@ we are providing chat to facilitate the communication between the seeker and fin
 
 A new Flutter application.
 VIDEO 
-https://drive.google.com/file/d/1cLnFW3IeBzzIegQoV1hErojclBWHDQJ6/view?usp=drive_link
+https://drive.google.com/file/d/1xMCWrtJLlNXy3SQhI95deaBQlT039VN8/view?usp=sharing
 ## Getting Started
 
 This project is a starting point for a Flutter application.
